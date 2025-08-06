@@ -10,7 +10,7 @@
 
 - 🎓 Aspire to become a Java Developer
 - 🌱 Currently learning full-stack development and databases
-- 🔧 Working on cool projects like Codsoft Tasks and Java apps
+- 🔧 Working on full stack Java projects
 - 🤝 Open to collaborate on beginner-friendly or Java-based projects
 - 🧠 Curious about Algorithms, APIs, Backend optimi
 
