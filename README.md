@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditya Ranjan</h1>
+<h1 align="left">Hi 👋, I'm Aditya Ranjan</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Adityaranjan30&label=Profile%20views&color=0e75b6&style=flat" alt="Adityaranjan30" />
 </p>
 
@@ -30,13 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityaranjan30&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaranjan30&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
