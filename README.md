@@ -9,10 +9,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Aspire to become a Java Developer
-- 🌱 Currently learning full-stack development and databases
-- 🔧 Working on full stack Java projects
-- 🤝 Open to collaborate on beginner-friendly or Java-based projects
-- 🧠 Curious about Algorithms, APIs, Backend optimi
+- 🌱 Currently learning and implementing full-stack development and databases.
+- 🔧 Working on full stack Java projects.
+- 🤝 Open to collaborate on beginner-friendly or Java-based projects.
+- 🧠 Curious about Algorithms, APIs, Backend optimization.
 
 ---
 
